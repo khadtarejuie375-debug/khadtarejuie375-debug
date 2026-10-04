@@ -1,4 +1,4 @@
-# 👋 Hey! there, I'm Juie Khadtare
+# 👋 Hey ! there, I'm Juie Khadtare
 
 ### 💻 Aspiring Software Developer | Web & Mobile App Development
 
