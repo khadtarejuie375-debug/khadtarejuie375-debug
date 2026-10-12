@@ -1,38 +1,55 @@
-# 👋 Hey ! there, I'm Juie Khadtare
+<div align="center">
 
-### 💻 Aspiring Software Developer | Web & Mobile App Development
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:FFCA28&height=220&section=header&text=Juie%20Khadtare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%26%20Java%20%7C%20Web%20%26%20Mobile%20Apps&descSize=18&descAlignY=58" alt="Header" />
 
-I'm **Juie Khadtare**, a graduate in **BBA(CA)** from **Sinhgad College of Arts and Commerce, Warje, Pune**.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Juie+%F0%9F%91%8B;MCA+Student+%7C+Aspiring+Software+Developer;Building+Mobile+Apps+with+Flutter+%F0%9F%93%B1;Java+%26+JavaFX+Developer+%E2%98%95;Exploring+React%2C+Django+%26+AWS+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-I’m passionate about building **web applications and mobile applications** and exploring new technologies to improve my development skills. I enjoy turning ideas into functional, user-friendly applications and continuously learning through hands-on projects.
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=khadtarejuie375-debug&label=Profile%20Views&color=02569B&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/khadtarejuie375-debug?label=Followers&style=for-the-badge&logo=github&color=181717)
+![Location](https://img.shields.io/badge/Pune-Maharashtra%2C%20India-FF6C37?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-## 🚀 About Me
-
-- 🎓 BBA(CA) Graduate from Sinhgad College of Arts and Commerce, Warje
-- 📍 Pune, Maharashtra, India
-- 💻 Interested in **Web Development & Mobile App Development**
-- 📱 Experience with **Flutter** for mobile application development
-- ☕ Experience with **Java & JavaFX**
-- 🔥 Experience working with **Firebase**
-- 🔧 Familiar with **Git, GitHub & GitLab**
-- 🧪 Experience using **Postman** for API testing
-- 🤖 Exploring AI-assisted development tools like **GitHub Copilot**
-- 🌱 Currently learning and improving my software development skills
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👩‍💻 About Me
 
-### 💻 Programming Languages
+I'm a **Master of Computer Applications (MCA) student at MES's IMCC, Pune**, and a **BBA(CA) graduate** from **Sinhgad College of Arts and Commerce, Warje, Pune**. I'm passionate about building **mobile and web applications** that are clean, functional, and easy to use.
+
+I learn best by building. My projects include a desktop shopping application in **Java/JavaFX** and **Nivara**, a cross-platform **Flutter** real estate app. I'm now expanding into **web and cloud technologies** like React, Django, and AWS.
+
+```yaml
+name: Juie Khadtare
+role: Aspiring Software Developer
+education:
+  - MCA - MES's IMCC, Pune (Pursuing)
+  - BBA(CA) - Sinhgad College of Arts and Commerce, Pune
+location: Pune, Maharashtra, India
+focus: [Flutter, Java, Firebase, REST APIs]
+currently_exploring: [React, Django, AWS]
+open_to: Collaboration on interesting projects
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### 📱 Mobile Development
+### 📱 Mobile & Desktop Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🔥 Backend & Database
+### ☁️ Backend, Database & APIs
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQFlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,79 +58,121 @@ I’m passionate about building **web applications and mobile applications** and
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
+### 🌱 Currently Exploring
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🏠 Nivara - Real Estate Mobile App
+
+A cross-platform mobile application for exploring and managing real estate properties through a clean, convenient interface.
+
+**✨ Highlights**
+- Cross-platform development with Flutter & Dart
+- Firebase backend integration
+- Local data storage using SQFlite
+- API integration and testing with Postman
+- Clean, user-friendly mobile experience
+
+**🧰 Tech Stack**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQFlite](https://img.shields.io/badge/SQFlite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+   </td>
+    <td width="50%" valign="top">
 
 ### 🛍️ Customized Shopping App
 
-A customized shopping application developed to provide users with a smooth and convenient shopping experience.
+A desktop shopping application focused on a smooth, user-friendly shopping experience with reliable data management.
 
-**Technologies Used:**
-- ☕ Java
-- 🖥️ JavaFX
-- 🔥 Firebase
-- 🧪 Postman
+**✨ Highlights**
+- Intuitive desktop UI built with JavaFX
+- Firebase integration for data storage
+- API integration and testing with Postman
+- Application logic and data management in Java
 
-**Key Focus:**
-- User-friendly application interface
-- Firebase integration
-- Application functionality and data management
-- API testing using Postman
+**🧰 Tech Stack**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=flat-square&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+   </td>
+  </tr>
+</table>
 
 ---
 
-### 🏠 Real Estate Mobile App
+## 📊 GitHub Stats
 
-A mobile application designed for exploring and managing real estate properties through a convenient mobile platform.
+<div align="center">
 
-**Technologies Used:**
-- 📱 Flutter
-- 🔥 Firebase
-- 🧪 Postman
-- 🔧 Git
-- 🦊 GitLab
-- 🐙 GitHub
-- 🤖 GitHub Copilot
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khadtarejuie375-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadtarejuie375-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-**Key Focus:**
-- Cross-platform mobile application development
-- Firebase backend integration
-- API testing and integration
-- Version control and collaborative development
-- Building a clean and user-friendly mobile experience
+<img src="https://streak-stats.demolab.com?user=khadtarejuie375-debug&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ## 🎯 Current Goals
 
-I'm currently focused on:
-
-- 🌐 Improving my **Web Development** skills
-- 📱 Becoming stronger in **Flutter & Mobile Development**
-- ☁️ Learning more about **Firebase & backend integration**
-- 🔌 Understanding and working with **REST APIs**
-- 🧩 Improving my programming and problem-solving abilities
-- 🚀 Building more real-world projects
-- 🤝 Exploring opportunities to work and collaborate on interesting projects
+- 🎓 Complete my **MCA** with strong practical and project experience
+- 🌐 Build web applications with **React** and **Django**
+- ☁️ Learn **AWS** and cloud deployment fundamentals
+- 📱 Grow stronger in **Flutter** and mobile app architecture
+- 🔌 Design, build, and consume **REST APIs** with confidence
+- 🧩 Improve **problem-solving** and programming fundamentals
+- 🤝 Collaborate on interesting open-source and team projects
 
 ---
 
-## 📊 My Development Journey
+## 🗺️ Development Journey
 
-```text
-BBA(CA)
-   ↓
-Programming Fundamentals
-   ↓
-Java & JavaFX
-   ↓
-Firebase & API Integration
-   ↓
-Flutter & Mobile Development
-   ↓
-Git / GitHub / GitLab
-   ↓
-Web & Full-Stack Development
-   ↓
-🚀 Continuous Learning
+```mermaid
+flowchart LR
+    A[🎓 BBA CA] --> B[📘 Programming Fundamentals]
+    B --> C[☕ Java & JavaFX]
+    C --> D[🔥 Firebase & APIs]
+    D --> E[📱 Flutter & Dart]
+    E --> F[🔧 Git / GitHub / GitLab]
+    F --> G[🎓 MCA at IMCC]
+    G --> H[🌐 React · Django · AWS]
+    H --> I[🚀 Continuous Learning]
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juie-khadtare)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadtarejuie375@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khadtarejuie375-debug)
+
+*I'm always happy to chat about tech, projects, or collaboration. Feel free to reach out!*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFCA28,100:02569B&height=120&section=footer" alt="Footer" />
+
+⭐ *Thanks for visiting my profile!* ⭐
+
+</div>
